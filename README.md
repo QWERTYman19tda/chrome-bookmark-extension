@@ -4,7 +4,6 @@ A simple way to organize chrome bookmarks
 # Instaling the extension
 
 1. Download and unzip the .zip file
-1a. You can also delete the file if you want to!
 2. Open chrome://extensions
 3. Click the switch at the top right 
 2a. Tip: It says "Developer Mode"
